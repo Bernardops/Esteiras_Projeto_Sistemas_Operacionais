@@ -124,4 +124,5 @@ Executar:
 
 ## Autor
 Desenvolvido por Bernardo Petry Salvador
+
 Projeto desenvolvido para fins acadêmicos em Sistemas Operacionais / Programação Concorrente.
