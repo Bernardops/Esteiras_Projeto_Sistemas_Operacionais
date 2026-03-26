@@ -3,7 +3,7 @@
 
 Este projeto implementa um simulador de esteira mecânica utilizando o paradigma produtor/consumidor, com múltiplas entradas e saídas concorrentes.
 
-A proposta é representar um sistema em que produtos são inseridos em uma esteira, processados e classificados de acordo com suas características.
+A proposta é representar um sistema em que produtos são inseridos em uma esteira, processados e classificados de acordo com suas características, de acordo com a .
 
 ---
 
